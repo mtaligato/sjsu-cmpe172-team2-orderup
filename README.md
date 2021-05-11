@@ -18,7 +18,7 @@ Team Members:
 - [Installation](#installation)
   - [Flutter and Dart](#flutter-and-dart)
   - [Tomcat](#tomcat)
-  - [MongoDB[(#mongodb)
+  - [MongoDB](#mongodb)
 - [Project Setup](#project-setup)
 - [Sample Screenshots](#sample-screenshots)
 
